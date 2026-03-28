@@ -1,1 +1,1 @@
-DRIVE_MODE = manual
+STEERING = skid_steer
