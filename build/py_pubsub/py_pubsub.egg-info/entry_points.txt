@@ -1,0 +1,3 @@
+[console_scripts]
+count_node = py_pubsub.count_node:main
+number_node = py_pubsub.number_node:main
